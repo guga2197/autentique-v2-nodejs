@@ -6,7 +6,6 @@
   "repository": "https://github.com/thiagozampieri/autentique-v2-nodejs.git",
   "author": "Thiago Zampieri <thiago.zampieri@gmail.com>",
   "license": "MIT",
-  "type": "module",
   "dependencies": {
     "axios": "^0.19.2",
     "babel-plugin-dotenv": "^0.1.1",
