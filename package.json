@@ -2,7 +2,7 @@
   "name": "autentique-v2-nodejs",
   "version": "1.0.11",
   "description": "API Autentique V2",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "repository": "https://github.com/thiagozampieri/autentique-v2-nodejs.git",
   "author": "Thiago Zampieri <thiago.zampieri@gmail.com>",
   "license": "MIT",
